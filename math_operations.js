@@ -1,0 +1,12 @@
+var num1=12;
+var num2=10;
+var sum=num1+num2;
+var sub=num1-num2;
+var multi=num1*num2;
+var div =num1/num2;
+var reminder=num1%num2;
+console.log("addition " + sum);
+console.log("subtraction "+ sub);
+console.log("multiplication "+ multi);
+console.log("divide "+div);
+console.log("reminder "+reminder);
